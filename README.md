@@ -75,11 +75,11 @@ The 6 datasets above provides data on the participation rate of high school stud
 
 ### Relationship between Scores & Participation Rates:
 
-![Score vs Participation Rate (ACT)](../media/Score vs Participation Rate (ACT).png)
+![Score vs Participation Rate (ACT)](media/Score_vs_Participation_Rate_(ACT).png)
 
 The 3 linear regression plots above show the relationship beween the ACT participation rate and the state average total score for years 2017 to 2019. As ACT participation rate increases, the average total score generally decreases, indicating an inverse relationship. This observation is generally consistent when we compare these plots from 2017 (left) to 2018 (middle) to 2019 (right), though there may be some outliers.
 
-![Score vs Participation Rate (SAT)](../media/Score vs Participation Rate (SAT).png)
+![Score vs Participation Rate (SAT)](media/Score_vs_Participation_Rate_(SAT).png)
 
 Similar observations can be made in respect of the 3 linear regression plots above that show the relationship beween the SAT participation rate and the state average total score for years 2017 to 2019.
 
